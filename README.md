@@ -1,4 +1,4 @@
-[![Header]([LINK](https://github.com/0x00b7/0x00b7/blob/main/banner.png))](https://github.com/0x00b7)
+[![Header](https://github.com/0x00b7/0x00b7/blob/main/banner.png?raw=true "Header")](https://github.com/0x00b7)
 
 ## 👋 Hello! 
 Software engineer with 3+ years of experience, always seeking to take ownership of the project and deliver faster than expected. comfortable for web, mobile, and API development.
