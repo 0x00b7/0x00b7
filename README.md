@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello! 👋
+Software engineer with 3+ years of experience, always seeking to take ownership of the project and deliver faster than expected. comfortable for web, mobile, and API development.
 
 <!--
 **0x00b7/0x00b7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
