@@ -1,7 +1,7 @@
 [![Header](https://github.com/0x00b7/0x00b7/blob/main/banner.png?raw=true "Header")](https://github.com/0x00b7)
 
 ## 👋 Hello! 
-Experience with over 6+ of encompassing hardware and software. Always seeking to take ownership and deliver faster than expected. Comfortable for web, mobile, and API development.
+Experience with over 6+ years of encompassing hardware and software. Always seeking to take ownership and deliver faster than expected. Comfortable for web, mobile, and API development.
 
 <!--
 **0x00b7/0x00b7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
