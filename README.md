@@ -1,8 +1,7 @@
 [![Header](https://github.com/0x00b7/0x00b7/blob/main/banner.png?raw=true "Header")](https://github.com/0x00b7)
 
 ## 👋 Hello! 
-Software Engineer with 4+ years of experience, seeking to take ownership and deliver faster than expected.
-Comfortable for web, mobile, and API development.
+Software engineer with 6+ years of experience, Hands-on mentality. Comfortable for web, mobile, and API development.
 
 <!--
 **0x00b7/0x00b7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
