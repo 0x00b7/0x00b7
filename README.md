@@ -1,7 +1,7 @@
 [![Header](https://github.com/0x00b7/0x00b7/blob/main/banner.png?raw=true "Header")](https://github.com/0x00b7)
 
 ## 👋 Hello! 
-Autodidactic Web-Developer with 3+ years of experience, seeking to take ownership and deliver faster than expected.
+Software Engineer with 4+ years of experience, seeking to take ownership and deliver faster than expected.
 Comfortable for web, mobile, and API development.
 
 <!--
