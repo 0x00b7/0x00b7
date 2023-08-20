@@ -1,6 +1,6 @@
 [![Header](https://github.com/0x00b7/0x00b7/blob/main/banner.png?raw=true "Header")](https://github.com/0x00b7)
 
-## 👋Hey there! 
+## 👋 Hey there! 
 Software engineer with 6+ years of experience, Hands-on mentality. Comfortable for web, mobile, and API development.
 
 <!--
